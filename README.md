@@ -1,8 +1,3 @@
-# Atestat
-This is the first project I did with HTML and CSS. I did it when I was in the 12th grade as my "atestat"
-
-  One of the biggest struggle was with the main page, which is supposed to be a cover of the 'journal'. Trying to arrange the cloud and making the page
-responsive were some of the problems I had. 
-
-
-  Making a responsive design was a challenge for me. I was able to do that on the majority of the pages, but not on all of them (ex the cover page). 
+# Jurnal de calatorie
+This is the oldest project that I created using HTML and CSS during my 12th-grade year as part of my "atestat" project. 
+The main page, which serves as the cover of the journal, was particularly challenging. I struggled with arranging the cloud and ensuring that the page was responsive. Although I managed to create a responsive design for most of the pages, there were some, such as the cover page, that presented difficulties and may not be completely adaptive.
